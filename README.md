@@ -1,5 +1,15 @@
 # Soluco-IoT-para-construco-de-objetos-usando-madeira
-Solução IoT para construção de objetos usando madeira//máquina CNC 2.1 controlada por Arduino
+Solução IoT para construção de objetos usando madeira
+Máquina CNC 2.1 controlada por Arduino
+
+Criação da CNC 2.1 
+
+![WhatsApp Image 2024-11-20 at 21 14 13](https://github.com/user-attachments/assets/b82855b7-3b51-4799-9a1e-5ad996ea4fd2)
+
+
+![WhatsApp Image 2024-09-05 at 19 57 41 (1)](https://github.com/user-attachments/assets/c8ca269a-d354-42ab-af8a-2f17493f9257)
+
+Criado por: Alexia Gonçalves 
 
 
 Imagens dos materiais usados:
